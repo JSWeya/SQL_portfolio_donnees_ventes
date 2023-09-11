@@ -8,7 +8,7 @@ Créer une base de donées contenant des informations sur les ventes, commandes 
 Consolider la base de données et introduire des requêtes pour répondre aux problématiques d'analyse ci-dessous.
 
 ## Primary Objective
-1-  Display name and commission of all salesman ordered by ASC.
+1-  Display name and commission of all salesman ordered by ASC.  
 2-  Retrieve salesman_id of all salesmen.
 3-  Display names and city of salesman, who belongs to the city of Paris.
 4-  Display all the information for those customers with a grade of 200.
